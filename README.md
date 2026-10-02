@@ -1,4 +1,4 @@
-# Flutter Rich Media Notifications
+<img width="209" height="241" alt="notificatopn" src="https://github.com/user-attachments/assets/d678da01-8070-41e9-9429-caf91a1090ff" /># Flutter Rich Media Notifications
 
 A production-ready Flutter package for creating rich Android notifications with **Big Picture Style**, **Media Style**, and **Basic Notifications**.
 
@@ -33,13 +33,14 @@ A production-ready Flutter package for creating rich Android notifications with 
 ## Demo
 
 <p align="center">
-  <img src="assets/demo.gif" width="200" alt="Rich Media Notifications Demo">
+  <img src="example/video/assets/notification_demo.gif" width="200" alt="Rich Media Notifications Demo">
 </p>
 
 ### Demo Asset
 
 ```text
-assets/demo.gif
+example/assets/images/notificatopn.png
+
 ```
 
 The demo GIF shows the package running with rich notification examples.
