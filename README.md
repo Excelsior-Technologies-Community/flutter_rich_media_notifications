@@ -1,9 +1,7 @@
 
 A production-ready Flutter package for creating rich Android notifications with **Big Picture Style**, **Media Style**, and **Basic Notifications**.
 
-<p align="center">
-  <img src="assets/demo.gif" width="200" alt="Flutter Rich Media Notifications Demo">
-</p>
+
 
 <p align="center">
   <strong>Rich Android notifications made simple with Flutter.</strong>
@@ -29,16 +27,22 @@ A production-ready Flutter package for creating rich Android notifications with 
 
 ---
 
-## Demo
-
+Image — width 200
 <p align="center">
-  <img src="example/video/assets/notification_demo.gif" width="200" alt="Rich Media Notifications Demo">
+  <img
+    src="example/assets/images/notificatopn.png"
+    width="200"
+    alt="Rich Media Notification"
+  />
 </p>
-
-### Demo Asset
-
-```text
-example/assets/images/notificatopn.png
+Demo GIF — width 200
+<p align="center">
+  <img
+    src="example/assets/video/notification_demo.gif"
+    width="200"
+    alt="Rich Media Notifications Demo"
+  />
+</p>
 
 ```
 
