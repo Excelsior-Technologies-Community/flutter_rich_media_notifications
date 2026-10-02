@@ -26,16 +26,7 @@ A production-ready Flutter package for creating rich Android notifications with 
 * ✅ Easy Flutter integration
 
 ---
-
-Image — width 200
-<p align="center">
-  <img
-    src="example/assets/images/notificatopn.png"
-    width="200"
-    alt="Rich Media Notification"
-  />
-</p>
-Demo GIF — width 200
+Demo GIF 
 <p align="center">
   <img
     src="example/assets/video/notification_demo.gif"
