@@ -625,8 +625,4 @@ Flutter Developer
   </a>
 </p>
 
----
 
-<p align="center">
-  Made with Flutter ❤️
-</p>
