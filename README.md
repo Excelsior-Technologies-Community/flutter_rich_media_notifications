@@ -1,4 +1,3 @@
-<img width="209" height="241" alt="notificatopn" src="https://github.com/user-attachments/assets/d678da01-8070-41e9-9429-caf91a1090ff" /># Flutter Rich Media Notifications
 
 A production-ready Flutter package for creating rich Android notifications with **Big Picture Style**, **Media Style**, and **Basic Notifications**.
 
